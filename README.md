@@ -1,0 +1,3 @@
+# learning
+Observando os acontecidos
+
